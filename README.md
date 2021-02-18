@@ -1,4 +1,4 @@
-# Installation
+# Running Youtube To RSS
 
 `git clone https://github.com/benarmstead/youtube-to-rss`
 
