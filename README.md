@@ -2,7 +2,7 @@
 
 `git clone https://github.com/benarmstead/youtube-to-rss`
 
-`cd youtube-to-rss`
+`cd youtube-to-rss/src`
 
 `python3 main.py`
 
