@@ -2,7 +2,7 @@
 
 A simple GUI that finds the RSS link for a youtube channel from its URL.
 
-# Running Youtube To RSS
+# Installation
 
 `git clone https://github.com/benarmstead/youtube-to-rss`
 
